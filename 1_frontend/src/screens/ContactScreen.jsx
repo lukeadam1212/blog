@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 // style
 const StyledContactScreen = styled.main`
-  min-height: 90vh;
+  min-height: 88vh;
   display: flex;
   align-items: center;
   justify-content: center;

@@ -1,0 +1,21 @@
+{
+  "header": {
+    "home": "Home",
+    "blog": "Blog",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "homeScreen": {
+    "homeTopTitle": "Party animal",
+    "homeTopText": "Music plays a leading role in New Orleans, the city that brought jazz into the world. And while traditional jazz is revered here, New Orleans is tuned into all kinds of music expression.The calendar is dotted with music celebrations both epic and homespun.",
+    "homeBottomText": "Locals love them all, but French Quarter Fest, a free huzzah to homegrown musical talent, is a New Orleans favorite."
+  },
+  "blog": {},
+  "gallery": {},
+  "contact": {},
+  "admin": {},
+  "footer": {
+    "blogName": "Red Sparrow"
+  }
+}
